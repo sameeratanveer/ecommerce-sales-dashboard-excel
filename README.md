@@ -1,5 +1,5 @@
 # Ecommerce Sales Analysis Dashboard
-![Alt Text](images/Screenshot%202025-03-04%20004235.png)
+![Alt Text](images/dashboard.png)
 ## Executive Summary
 This project analyzes ecommerce sales data over the years 2011-2014, with the goal of providing key insights into sales performance, profitability, and areas for potential business growth. The analysis includes the creation of key performance indicators (KPIs), year-over-year (YoY) growth, and detailed visualizations such as sales vs. profit trends, category-wise analysis, and regional sales performance. The results offer valuable insights to help guide strategic decision-making.
 
